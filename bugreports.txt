@@ -1,0 +1,15 @@
+bugreports key:
+XE: Number of the error, includes the line of code causing it.
+XF: Number of the fix, and what fixed it.
+
+1E: "GPAEntry = input(int("Enter the GPA of the student: "))"
+1F: Decided to remove the int.
+
+2E: "while done = False:"
+2A: Forgot second =
+
+3E: "elif GPAEntry < 3.5 and GPAEntry => 3.25:"
+3A: corrected => to >=
+
+4E: "GPAEntry = input("Enter the GPA of the student: ")"
+4A: Decided to change to GPAEntry = float(input("Enter the GPA of the student: ")
