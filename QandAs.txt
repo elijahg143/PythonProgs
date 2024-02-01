@@ -1,0 +1,8 @@
+Q1: How many seconds are in an hour?
+A1: There are 3600 seconds in one hour.
+
+Q2: How many seconds are in a day?
+A2: There are 86400 seconds in a day.
+
+Q3: Did this number agree with the floating-point value from the previous question, aside from the final .0?
+A3: Yes, it was the same number, aside from the additional decimal point.
